@@ -5,22 +5,22 @@
 // public class FMOD_Commands : MonoBehaviour
 // {
 //     #region EVENT EMITTER
-//     // EVENT EMITTER
+////     // EVENT EMITTER
 // 	[SerializeField]
 //     public FMODUnity.StudioEventEmitter tavernEmitter; // Deklaracja publicznego pola, które przechowuje referencję do event emittera na scenie.
 //     #endregion
 
 //     #region EVENT
-//     // EVENT
-//     FMOD.Studio.EventInstance FootstepsSound; // Deklaracja zmiennej, która będzie przechowywać instancję eventu Footsteps.
+////     // EVENT
+//    FMOD.Studio.EventInstance FootstepsSound; // Deklaracja zmiennej, która będzie przechowywać instancję eventu Footsteps.
 //     public EventReference footstepsEvent; // Deklaracja publicznego pola, które przechowuje referencję do pliku z eventem Footsteps.
 
-//     private void Footsteps()
+////     private void Footsteps()
 //     {
-//         // jednorazowe odtworzenie
+////         // jednorazowe odtworzenie
 //         FMODUnity.RuntimeManager.PlayOneShot(footstepsEvent); // Odtwarza event jednokrotnie bez zarządzania jego instancją.
         
-//         // podstawowe zarządzanie eventem
+////         // podstawowe zarządzanie eventem
 //         FootstepsSound = FMODUnity.RuntimeManager.CreateInstance(footstepsEvent); // Tworzy nową instancję eventu Footsteps.
 //         FootstepsSound.setParameterByNameWithLabel("Footsteps_surface", "Stone"); // Ustawia parametr o nazwie "Footsteps_surface" na wartość "Stone".
 //         FootstepsSound.start(); // Uruchamia odtwarzanie eventu.
@@ -40,7 +40,7 @@
 //     #endregion
 
 //     #region SNAPSHOT
-//     // SNAPSHOT
+//    // SNAPSHOT
 //     FMOD.Studio.EventInstance HealthSnap; // Deklaracja zmiennej, która będzie przechowywać instancję snapshotu Health.
 //     public EventReference healthSnapshot; // Deklaracja publicznego pola, które przechowuje referencję do pliku z snapshotem Health.
 
@@ -61,7 +61,7 @@
 //     #endregion
 
 //     #region VCA
-//     // VCA
+////     // VCA
 //     FMOD.Studio.VCA GlobalVCA; // Deklaracja zmiennej, która będzie przechowywać referencję do VCA o nazwie "Mute".
 
 //     private void VCA()
