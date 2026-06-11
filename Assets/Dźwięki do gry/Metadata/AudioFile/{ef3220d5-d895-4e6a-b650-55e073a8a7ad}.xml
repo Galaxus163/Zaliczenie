@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ef3220d5-d895-4e6a-b650-55e073a8a7ad}">
+		<property name="assetPath">
+			<value>foot_rock_3.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.48277083333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{996c9c72-12df-4877-a05d-e127028349a4}</destination>
+		</relationship>
+	</object>
+</objects>
