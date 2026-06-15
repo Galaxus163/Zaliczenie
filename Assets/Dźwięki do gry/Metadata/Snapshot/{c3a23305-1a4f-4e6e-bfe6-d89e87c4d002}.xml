@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Snapshot" id="{c3a23305-1a4f-4e6e-bfe6-d89e87c4d002}">
 		<property name="name">
-			<value>New Snapshot</value>
+			<value>Outside</value>
 		</property>
 		<relationship name="mixer">
 			<destination>{066a6a7d-11bd-4fbe-be0e-99d26157230b}</destination>
@@ -53,9 +53,6 @@
 		<property name="value">
 			<value>-19</value>
 		</property>
-		<relationship name="modulators">
-			<destination>{dd742a81-4b7c-4049-8ad0-f695d7d5a1b6}</destination>
-		</relationship>
 		<relationship name="automatableObject">
 			<destination>{88094778-001c-4d5e-b945-71e9ebc10b70}</destination>
 		</relationship>
@@ -71,17 +68,6 @@
 		</relationship>
 	</object>
 	<object class="ADSRModulator" id="{9cd2dfcf-566e-4a9c-b27b-258c56894728}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>value</value>
-		</property>
-		<property name="initialValue">
-			<value>-80</value>
-		</property>
-		<property name="finalValue">
-			<value>-80</value>
-		</property>
-	</object>
-	<object class="ADSRModulator" id="{dd742a81-4b7c-4049-8ad0-f695d7d5a1b6}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>value</value>
 		</property>
