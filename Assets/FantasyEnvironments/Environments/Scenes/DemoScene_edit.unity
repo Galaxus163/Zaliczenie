@@ -4819,7 +4819,7 @@ MonoBehaviour:
   Preload: 0
   NonRigidbodyVelocity: 0
   Params: []
-  OverrideAttenuation: 0
+  OverrideAttenuation: 1
   OverrideMinDistance: 1
   OverrideMaxDistance: 20
 --- !u!135 &1516284173
@@ -4910,7 +4910,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 400.205, y: 9.266, z: 315.52}
-  m_LocalScale: {x: 14.431111, y: 1, z: 1}
+  m_LocalScale: {x: 0.7090678, y: 0.7090678, z: 0.7090678}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
