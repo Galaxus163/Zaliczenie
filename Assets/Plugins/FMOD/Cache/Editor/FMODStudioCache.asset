@@ -394,10 +394,10 @@ MonoBehaviour:
   Path: "Assets/D\u017Awi\u0119ki do gry/Build/Desktop/Master.bank"
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639180641508637446
+  lastModified: 639180645399022602
   FileSizes:
   - Name: Desktop
-    Value: 8430336
+    Value: 8430368
   Exists: 1
 --- !u!114 &-1707114139928262174
 MonoBehaviour:
@@ -604,7 +604,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 4360380778106266394}
   cacheVersion: 131859
-  cacheTime: 639180641508657494
+  cacheTime: 639180645399042798
   SerializableEventsDict:
   - key: event:/Door opening
     index: 0
@@ -774,7 +774,7 @@ MonoBehaviour:
   Path: "Assets/D\u017Awi\u0119ki do gry/Build/Desktop/Master.strings.bank"
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639180641508657494
+  lastModified: 639180645399042798
   FileSizes:
   - Name: Desktop
     Value: 2022

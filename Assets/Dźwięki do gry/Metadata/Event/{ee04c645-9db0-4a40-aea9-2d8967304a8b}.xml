@@ -49,6 +49,7 @@
 		<relationship name="masters">
 			<destination>{8f260616-e1e1-4496-9d8b-13710ba55e79}</destination>
 			<destination>{c155223f-8681-4c85-8e0d-4a001d2281a7}</destination>
+			<destination>{0decee7f-620c-40a5-88c8-4dfb40dccd32}</destination>
 		</relationship>
 		<relationship name="effectChain">
 			<destination>{90d2f83f-dff2-427c-920b-b4d34846f21e}</destination>
@@ -57,7 +58,7 @@
 			<destination>{bde8a617-5a82-4172-b585-8fba7b50dbab}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{ce4ef91a-46b5-4a03-9e1c-0dc5af3f9de2}</destination>
+			<destination>{88094778-001c-4d5e-b945-71e9ebc10b70}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{bf2d85dc-c534-4403-b43e-62e63de37587}" />
